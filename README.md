@@ -15,4 +15,4 @@
 <br>
 <br>
 
-<img src="C:\Users\Aline\Desktop\projeto.cafeteria\assets\img--caf-perfil.jpg">
+<img src="https://github.com/Alineaalvess/projeto.cafeteria/blob/main/assets/img--caf-perfil.jpg?raw=true">
